@@ -12,11 +12,11 @@ In Sky, players explore the realms to capture light children, but in my game the
 
 ## Controls
 
-Joystick left/right: Moves horizontally. A stronger sideways push will increase steering speed
-Joystick forward: The cape will complete it's full animation if pushed at the maximum, and will only partially ripple if the player is not pushing as hard.
-Joystick centered: Player will hover slowly rather than stop.
-Potentiometer: Blend between Day, Sunset, and Night.
-Red button: Restart the round at any time.
+- Joystick left/right: Moves horizontally. A stronger sideways push will increase steering speed!
+- Joystick forward: The cape will complete it's full animation if pushed at the maximum, and will only partially ripple if the player is not pushing as hard.
+- Joystick centered: Player will hover slowly rather than stop.
+- Potentiometer: Blend between Day, Sunset, and Night.
+- Red button: Restart the round at any time.
 
 Capturing a light will add a point to the score. 
 
